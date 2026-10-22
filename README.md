@@ -12,6 +12,14 @@ Your tasks become little *Pew Pews* wandering a riso-printed room. Confirm progr
 
 把待办变成房间里的 Pew Pew，用玩具枪确认进度，做完的事变成记忆球，掉进玻璃瓶里。
 
+### Make everyday progress feel like an achievement.
+
+What if getting things done felt a little more like playing a game? Pew Pew Jar is a free productivity tool that brings a playful twist to everyday tasks. Instead of simply checking things off a to-do list, you can turn your progress into little achievements you can see, collect, and look back on.
+
+让日常的每一点进步，都有值得庆祝的成就感。
+
+如果完成日常任务，也能像玩游戏一样有趣一点，会怎么样？成就暴击（Pew Pew Jar）是一款免费的游戏化效率工具。除了在待办清单上勾选已完成的事项，你还可以把自己的进展变成看得见、可以收集、以后也能回顾的小小成就。
+
 ## ✨ What You'll Find / 主要功能
 
 - **Task Management / 任务管理** — Organize your everyday tasks and keep track of progress. · 整理日常待办事项，记录任务进展。
