@@ -85,7 +85,19 @@ English and 简体中文 — switch any time in Settings. · 中英文可在设�
 Pew Pew Jar is free to use. If you enjoy it, you're welcome to buy me a coffee!
 本软件可以免费使用。如果你喜欢它，也欢迎请我喝杯咖啡，支持我的创作！
 
-<a href="https://ko-fi.com/yilinding"><img src="assets/kofi-banner.jpg" width="320" alt="Support Me on Ko-fi"></a>
+<table>
+<tr>
+<td align="center" width="50%">
+<b>International / 海外渠道</b><br><br>
+<a href="https://ko-fi.com/yilinding"><img src="assets/kofi-banner.jpg" width="280" alt="Support Me on Ko-fi"></a>
+</td>
+<td align="center" width="50%">
+<b>Mainland China / 国内渠道</b><br><br>
+<img src="assets/wechat-qr.png" width="200" alt="WeChat reward QR code"><br>
+<sub>微信扫码，自愿支持，金额随意 · Scan with WeChat to leave a tip of any amount</sub>
+</td>
+</tr>
+</table>
 
 Every bit of support is appreciated and helps me keep improving this little project.
 每一份支持我都非常感激，也会成为我继续完善这个小项目的动力。
