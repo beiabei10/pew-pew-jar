@@ -1,9 +1,9 @@
-<p align="center"><img src="assets/hero-room.jpg" alt="Pew Pew Jar gameplay — an isometric riso-art room full of task pews" width="100%"></p>
+<p align="center"><img src="assets/hero-room.jpg" alt="Pew Pew Jar — an isometric riso-art room full of task pews" width="100%"></p>
 
 <h1 align="center">Pew Pew Jar · 成就暴击 🎯</h1>
 <p align="center"><b>A cozy to-do for tiny wins.</b> · 把待办变成房间里的小事</p>
 <p align="center">
-  <a href="https://beiabei.itch.io/pew-pew-jar">▶ Play on itch.io</a> ·
+  <a href="https://beiabei.itch.io/pew-pew-jar">▶ Open on itch.io</a> ·
   <a href="https://pewpewjar.netlify.app">🌐 Website</a> ·
   <a href="https://ko-fi.com/yilinding">☕ Support on Ko-fi</a>
 </p>
@@ -26,9 +26,12 @@ What if getting things done felt a little more like playing a game? Pew Pew Jar 
 - **Playful Feedback / 趣味反馈** — Make completing tasks a little more fun and rewarding. · 让完成任务的过程更有趣、更有成就感。
 - **Collect Your Achievements / 成就收集** — Save little memories of your progress and revisit them later. · 收藏自己的进步与回忆，随时回顾。
 - **Decorate Your Room / 装饰房间** — Wallpaper, flooring and furniture all come in a few swappable styles (furniture stays in its place). · 墙纸、地板和家具款式都可以随时换（家具摆放的位置是固定的）。
+- **Sticky Notes / 便签** — Click the pegboard for a new note; keep them in a notebook, copy them all or export a .txt. On Windows each note stays on top of your desktop; in the browser they float over the page. · 点洞洞板新建便签，便签本里可以复制全部或导出 .txt。Windows 版便签一直贴在桌面最上层，网页版浮在页面上。
+- **Pew Pew Clock & Timer / 挂钟和计时器** — A wall clock that shows the real time, plus a simple wind-up timer (1–60 min, tick sound can be turned off). · 显示真实时间的挂钟，加一个简单的发条计时器（1–60 分钟，滴答声可关）。
+- **Desktop Companion (Windows) / 桌面陪伴（Windows 版）** — The room sits small in a corner of your desktop, always on top; clicks on empty space pass through. · 小房间常驻在桌面角落、置顶显示，空白处的点击会直接穿透到桌面。
 - **Your Own Little Space / 专属小空间** — An interactive 3D room as part of your productivity routine. · 在互动式 3D 场景中体验不一样的任务管理方式。
 
-## 🎮 How It Works / 核心玩法很简单
+## 🎮 How It Works / 用起来很简单
 
 From summoning a Pew Pew to it becoming a memory orb in the cabinet — here's the whole flow in four steps.
 从召唤一个 Pew Pew，到它变成记忆球收进柜子——整个过程就这四步。
@@ -61,8 +64,8 @@ For anyone who finds traditional to-do lists a little boring, enjoys playful vis
 
 ## 💻 Download / 下载
 
-Go to **[Releases](../../releases/latest)** and download, or **[play the web version on itch.io](https://beiabei.itch.io/pew-pew-jar)**:
-到 **[Releases](../../releases/latest)** 下载，或者 **[在 itch.io 上玩网页版](https://beiabei.itch.io/pew-pew-jar)**：
+Go to **[Releases](../../releases/latest)** and download, or **[use the web version on itch.io](https://beiabei.itch.io/pew-pew-jar)**:
+到 **[Releases](../../releases/latest)** 下载，或者 **[在 itch.io 上使用网页版](https://beiabei.itch.io/pew-pew-jar)**：
 
 | File / 文件 | What it is / 说明 |
 | --- | --- |
@@ -74,7 +77,7 @@ Go to **[Releases](../../releases/latest)** and download, or **[play the web ver
 > **提示「Windows 已保护你的电脑」？** 安装包还没有数字签名，点 **更多信息 → 仍要运行**。
 
 The desktop app is currently Windows only; the web version runs in any browser (Windows, macOS, etc.).
-桌面版目前仅支持 Windows；网页版可以在任何系统的浏览器里玩（包括 macOS）。
+桌面版目前仅支持 Windows；网页版可以在任何系统的浏览器里使用（包括 macOS）。
 
 ## 📕 Your data / 数据
 
